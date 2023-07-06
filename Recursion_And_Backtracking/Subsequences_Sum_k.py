@@ -11,6 +11,6 @@ def Sum_K(arr,inx,l,k,s,result):
     l.remove(arr[inx])
     Sum_K(arr,inx+1,l,k,s,result)
     return result
-arr=[1,2,3,4]
-k=5
+arr=[10,1,2,7,6,1,5]
+k=8
 print(Sum_K(arr,0,[],k,0,[]))
