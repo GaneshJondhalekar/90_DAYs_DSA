@@ -1,0 +1,15 @@
+1.  Web servers often use queues to manage incoming requests from clients. When multiple requests arrive simultaneously, 
+    a queue ensures that requests are processed one by one, preventing overload and ensuring fair resource allocation.
+
+2.  Operating systems often use queues to manage processes and resources. 
+    For example, a process scheduler might use a queue to manage the order in which processes are executed.
+
+3.  Printer queues :In printing systems, queues are used to manage the order in which print jobs are processed. 
+    Jobs are added to the queue as they are submitted, and the printer processes them in the order they were received.
+
+4.  Applied on WhatsApp when we send messages to our friends and they don’t have an internet connection then 
+    these messages are queued on the server of WhatsApp.
+
+5.  Ticket booking system
+
+6.  Applied to add a song at the end or to play from the front.
