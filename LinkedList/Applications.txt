@@ -1,0 +1,13 @@
+Applications of linked list in the real world:
+
+1. Image viewer – Previous and next images are linked and can be accessed by the next and previous buttons.
+
+2. Previous and next page in a web browser – We can access the previous and 
+   next URL searched in a web browser by pressing the back and next buttons since they are linked as a linked list.
+
+3. Music Player – Songs in the music player are linked to the previous and next songs. 
+   So you can play songs either from starting or ending of the list.
+
+4. Task scheduling - In real-time systems, linked lists can be utilized for task scheduling, 
+   where processes or tasks are prioritized and executed based on their priority levels. 
+   The linked list allows for easy insertion, deletion, and rearrangement of tasks based on their priority.
